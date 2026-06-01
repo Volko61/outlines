@@ -20,3 +20,4 @@ from outlines.templates import Vision as Vision
 from outlines.types import cfg as cfg
 from outlines.types import json_schema as json_schema
 from outlines.types import regex as regex
+from outlines.workflows import TwoStepJsonGenerator as TwoStepJsonGenerator
